@@ -1,7 +1,7 @@
 package creational.factory.abstractFactory;
 
-public class ProductA implements Product {
-    public ProductA() {
+public class ProductOneA implements ProductOne {
+    public ProductOneA() {
         System.out.println("create product A");
     }
 }

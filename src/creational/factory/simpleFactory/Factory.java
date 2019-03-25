@@ -5,9 +5,9 @@ package creational.factory.simpleFactory;
  */
 public class Factory {
     public static Product create(String type) {
-        if ("ProductA".equalsIgnoreCase(type)) {
+        if ("ProductOneA".equalsIgnoreCase(type)) {
             return new ProductA();
-        } else if ("ProductB".equalsIgnoreCase(type)) {
+        } else if ("ProductOneB".equalsIgnoreCase(type)) {
             return new ProductB();
         } else {
             throw new RuntimeException("找不到相应的产品，无法创建！");

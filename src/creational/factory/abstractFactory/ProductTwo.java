@@ -1,8 +1,9 @@
 package creational.factory.abstractFactory;
 
 /**
- * 抽象产品的公共接口（也可以是抽象类）
+ * @author gongw
+ * @date 2019/3/25
  */
-public interface Product {
+public interface ProductTwo {
     // todo 这里可以抽象一些公共行为（声明）
 }

@@ -27,7 +27,7 @@ public class Product {
 
     @Override
     public String toString() {
-        return "Product{" +
+        return "ProductOne{" +
                 "partOne='" + partOne + '\'' +
                 ", partTwo='" + partTwo + '\'' +
                 '}';

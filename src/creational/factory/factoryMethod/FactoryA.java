@@ -1,8 +1,5 @@
 package creational.factory.factoryMethod;
 
-import creational.factory.simpleFactory.Product;
-import creational.factory.simpleFactory.ProductA;
-
 /**
  * 工厂具体类，用于创建产品A
  */

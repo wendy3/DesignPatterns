@@ -1,11 +1,9 @@
 package creational.factory.abstractFactory;
 
-import creational.factory.simpleFactory.Product;
-
 public interface Factory {
-    // 创建产品A
-    public Product createA();
+    // 创建产品1
+    public ProductOne createOne();
 
-    // 创建产品B
-    public Product createB();
+    // 创建产品2
+    public ProductTwo createTwo();
 }
