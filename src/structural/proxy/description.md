@@ -14,3 +14,6 @@
 #### 应用场景：
 当无法或不想直接访问某个属性或访问某个对象存在困难时可以通过一个代理对象来间接访问，
 为了保证客户端使用的透明性，委托对象与代理对象需要实现相同的接口。
+
+https://www.cnblogs.com/vanl/p/5629653.html
+https://www.cnblogs.com/qifengshi/p/6566752.html
